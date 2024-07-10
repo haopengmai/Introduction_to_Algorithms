@@ -1,7 +1,7 @@
 ## Introduction
 This repository provides clear and concise Java implementations of the pseudocode presented in the second edition of "Introduction to Algorithms". Each algorithm is carefully translated from the pseudocode to Java to maintain consistency with the textbook.
 
-##Project Structure
+## Project Structure
 The repository is organized into chapters corresponding to the chapters in the textbook. Each chapter contains the Java implementation of the algorithms covered in that chapter.
 
 ### Chapter 2: InserSort and MergeSort
